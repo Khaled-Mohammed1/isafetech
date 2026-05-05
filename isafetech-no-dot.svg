@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200">
+  <rect width="1200" height="1200" fill="#000000"/>
+
+  <!-- Code icon -->
+  <g fill="none" stroke-linecap="butt">
+    <path d="M525 352 L430 420 L525 488" stroke="#68FF00" stroke-width="36"/>
+    <path d="M675 352 L770 420 L675 488" stroke="#68FF00" stroke-width="36"/>
+    <path d="M630 320 L578 520" stroke="#FFFFFF" stroke-width="34"/>
+  </g>
+
+  <!-- I SAFE -->
+  <text x="120" y="750" font-family="Arial, Helvetica, sans-serif"
+        font-size="240" font-weight="700" letter-spacing="25" fill="#68FF00">I</text>
+
+  <text x="260" y="750" font-family="Arial, Helvetica, sans-serif"
+        font-size="240" font-weight="700" letter-spacing="25" fill="#FFFFFF">SAFE</text>
+
+  <!-- Tech -->
+  <text x="900" y="820" font-family="Arial, Helvetica, sans-serif"
+        font-size="60" letter-spacing="25" fill="#68FF00">Tech</text>
+
+</svg>
